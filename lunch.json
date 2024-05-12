@@ -1,0 +1,17 @@
+[
+    {
+        "name": "pita_shawarma",
+        "id": 1,
+        "price": 80
+    },
+    {
+        "name": "antrikot",
+        "id": 2,
+        "price": 200
+    },
+    {
+        "name": "shipudim",
+        "id": 3,
+        "price": 150
+    }
+]

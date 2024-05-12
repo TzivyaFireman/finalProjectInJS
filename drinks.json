@@ -1,0 +1,28 @@
+[
+    {
+        "name": "wiski",
+        "id": 10,
+        "price": 350
+        
+    },
+    {
+        "name": "shardona",
+        "id": 11,
+        "price": 150
+    },
+    {
+        "name": "vodka",
+        "id": 12,
+        "price": 320
+    },
+    {
+        "name": "likker",
+        "id": 13,
+        "price": 80
+    },
+    {
+        "name": "eshkoliot",
+        "id": 14,
+        "price": 50
+    }
+]
